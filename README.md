@@ -1,5 +1,5 @@
 # Reinforcement-learning
-Contains implementations of: \
+Contains implementations of: 
 
 vi.py - contains code Value iteration \
 pi.py - contains code Policy iteration \
